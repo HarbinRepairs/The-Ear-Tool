@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name The-Ear-Tool-rescue)(type Legacy)(uri "${KIPRJMOD}/The Ear Tool-rescue.lib")(options "")(descr ""))
+  (lib (name Switch1)(type Legacy)(uri "/Users/jordanharbin/Documents/Kicad Library/Switch/Switch.lib")(options "")(descr ""))
+  (lib (name AUDIO-JACK-3)(type Legacy)(uri "/Users/jordanharbin/Documents/Kicad Library/AUDIO-JACK-3.lib")(options "")(descr ""))
+)

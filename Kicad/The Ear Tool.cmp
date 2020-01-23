@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = Tuesday, November 27, 2018 'PMt' 11:36:18 PM
+
+BeginCmp
+TimeStamp = 5BAD0AF1
+Path = /5B89F5B9
+Reference = C1;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitors_THT:C_Radial_D5_L6_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0AF7
+Path = /5B89F65A
+Reference = C2;
+ValeurCmp = 220uF;
+IdModule  = Capacitors_THT:C_Radial_D5_L6_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0AFD
+Path = /5BA69078
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B03
+Path = /5B89F88A
+Reference = LS1;
+ValeurCmp = Speaker;
+IdModule  = Oddities:NetTie-I_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B17
+Path = /5BAC28C2
+Reference = P2;
+ValeurCmp = Sensor Connector;
+IdModule  = Oddities:NetTie-I_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B1D
+Path = /5BA6951F
+Reference = P3;
+ValeurCmp = 9V Battery Clip;
+IdModule  = Oddities:NetTie-I_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B3C
+Path = /5BA6D851
+Reference = SW1;
+ValeurCmp = Power Switch;
+IdModule  = myFootprints:SW_SPDT_3P_11.1mm_5.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B43
+Path = /5BA6D982
+Reference = SW2;
+ValeurCmp = Full Scope Switch;
+IdModule  = myFootprints:SW_SPDT_3P_11.1mm_5.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B4F
+Path = /5B89DD93
+Reference = U1;
+ValeurCmp = LM386;
+IdModule  = Housings_DIP:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B23
+Path = /5BA690F1
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAE4FE8
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3mm_Pad;
+IdModule  = Mounting_Holes:MountingHole_3mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAE4FF0
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3mm_Pad;
+IdModule  = Mounting_Holes:MountingHole_3mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAE4FF5
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3mm_Pad;
+IdModule  = Mounting_Holes:MountingHole_3mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAE4FFA
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3mm_Pad;
+IdModule  = Mounting_Holes:MountingHole_3mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAE95B0
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = myFootprints:HR_LOGO_37.4x10.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAEC958
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = myFootprints:Ear_icon_4.2x4.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAEE054
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = myFootprints:HR_LOGO_37.4x10.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B2C
+Path = /5BAC4D81
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = myFootprints:POT_RV09_HORIZONTAL_WHO9;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3A9C6
+Path = /5BD28C3D
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = Resistors_THT:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAD0B11
+Path = /5BAC44CA
+Reference = P1;
+ValeurCmp = AUDIO-JACK-3F07-TRS;
+IdModule  = myFootprints:AUDIO-JACK-3F07-TRS;
+EndCmp
+
+EndListe

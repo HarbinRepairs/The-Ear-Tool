@@ -5,7 +5,7 @@ Model: ET-1
 Buy this kit at our store: http://bit.ly/2TQ3Cbr
 Or on eBay: https://ebay.to/38sRZv4
 
-![materials](/images/the ear tool.jpg)
+![materials](/images/the ear tool.JPG)
 
 # License
 Harbin Repairs 2020
@@ -24,7 +24,7 @@ https://youtu.be/0QIx8OhJN-o
 
 ## Bill of Materials
 
-![materials](/images/materials.jpg)
+![materials](/images/materials.JPG)
 
 | Description                   | Part #             | Main Links (Affiliate)      | eBay Links (Affiliate)  | Amazon Links (Affiliate) |
 |-------------------------------|--------------------|-----------------------------|-------------------------|--------------------------|

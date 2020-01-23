@@ -5,7 +5,8 @@ Model: ET-1
 Buy this kit at our store: http://bit.ly/2TQ3Cbr
 Or on eBay: https://ebay.to/38sRZv4
 
-![materials](/images/the ear tool.JPG)
+![materials](/images/the-ear-tool.JPG)
+![materials](/images/diagram.png)
 
 # License
 Harbin Repairs 2020

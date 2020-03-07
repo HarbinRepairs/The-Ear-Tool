@@ -2,7 +2,7 @@
 
 Model: ET-1
 
-Buy this kit at our store: http://bit.ly/2TQ3Cbr
+Get this kit at our store: http://bit.ly/2TQ3Cbr
 Or on eBay: https://ebay.to/38sRZv4
 
 ![materials](/images/the-ear-tool.JPG)
@@ -17,11 +17,12 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## What is the Ear tool?
 The Ear tool can be used to detect almost any electromagnetic interference coming from your electronics such as a power supply, transformer, CPU, microcontroller, wireless transmitter, relays, switches, speakers, transducers, transistors and more. At Harbin Repairs we use the Ear Tool to diagnose problems with computer motherboards, cellphones, and televisions by pointing the tool at different parts of a circuit board and listening to the high frequency pulsing coming from different components. For example, this can help us determine if a CPU or microcontroller is doing any processing or if it’s just sitting there burning up because there’s a short somewhere. It can also let us know if a cellphone or other device is turning on even if there’s no sign of life on the screen or lights. The tool can also be used to discover the different noises your electronics make when they are doing different things (e.g. standby mode vs. fully powered on). For the controls, the gain switch adjusts between high and low sensor gain and the full scope switch switch is used to help clear up some of the background noise. More examples are in the assembly guide video below.
-## Kit Assembly Guide
+## Demonstration and kit assmebly guide Video
 
 https://youtu.be/0QIx8OhJN-o
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0QIx8OhJN-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![The Ear Tool Demo Video & Assembly](https://img.youtube.com/vi/0QIx8OhJN-o/0.jpg)](https://www.youtube.com/watch?v=0QIx8OhJN-o)
+
 
 ## Bill of Materials
 
